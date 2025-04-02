@@ -39,7 +39,7 @@
         <!-- Remplace [Nom de ton Repo 1] par le nom de ton projet -->
         <p>romAIn</p>
         <!-- Remplace [URL Image Projet 1] par une URL d'image représentative (logo, screenshot...). Tu peux l'héberger dans ton repo. -->
-        <img src="https://github.com/user-attachments/assets/a40be7e6-0144-4904-92c4-a35a88917500" alt="Image Projet 1" style="width: 128px; border-radius: 8px;" />
+        <img src="https://github.com/user-attachments/assets/a40be7e6-0144-4904-92c4-a35a88917500" alt="Image Projet 1" style="width: 260px; border-radius: 8px;" />
       </a>
     </td>
     <!-- Projet 2 -->
