@@ -55,11 +55,11 @@
     <!-- Projet 3 (Optionnel, tu peux en mettre plus ou moins) -->
     <td align="center" style="padding: 10px;">
        <!-- Remplace [URL de ton Repo 3] -->
-      <a href="[URL de ton Repo 3]">
+      <a href="https://github.com/Romaindujardin/NLP-Classification">
          <!-- Remplace [Nom de ton Repo 3] -->
-        <p>[Nom de ton Repo 3]</p>
+        <p>Classification LSTM</p>
          <!-- Remplace [URL Image Projet 3] -->
-        <img src="[URL Image Projet 3]" alt="Image Projet 3" style="width: 128px; border-radius: 8px;" />
+        <img src="https://github.com/user-attachments/assets/f93e3460-dff4-4dda-9664-15af2e5c13fd" alt="Image Projet 3" style="width: 260px; border-radius: 8px;" />
       </a>
     </td>
   </tr>
