@@ -1,15 +1,10 @@
-## Hi there 👋
 
-<!-- Remplace [Ton Nom] par ton vrai nom -->
 <h1 align="center">Hi 👋, I'm Romain</h1>
-<!-- Remplace [Ta Description/Rôle] par ce qui te décrit le mieux (ex: "Développeur Web passionné", "Étudiant en Data Science", "Créateur de solutions open-source") -->
 <h3 align="center">I'm an engineer student in AI</h3>
-<!-- Optionnel: Remplace ou supprime cette phrase d'accroche -->
 <p align="center">⚒️ I like building some stuff that anybody want</p>
 
-<!-- Section Badges : À adapter selon tes comptes/projets -->
+
 <p align="center" >
-  <!-- Badge GitHub Stars : Remplace [Ton Username GitHub] par ton username -->
   <img src="https://img.shields.io/github/stars/romaindujardin?&style=flat" alt="Github Stars" />
 
   <!-- === Exemples d'autres badges (choisis ceux qui te concernent) === -->
