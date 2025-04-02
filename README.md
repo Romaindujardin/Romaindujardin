@@ -45,11 +45,11 @@
     <!-- Projet 2 -->
     <td align="center" style="padding: 10px;">
       <!-- Remplace [URL de ton Repo 2] -->
-      <a href="[URL de ton Repo 2]">
+      <a href="https://github.com/Project-Group-AI/I-LLM">
         <!-- Remplace [Nom de ton Repo 2] -->
-        <p>[Nom de ton Repo 2]</p>
+        <p>I-LLM</p>
         <!-- Remplace [URL Image Projet 2] -->
-        <img src="[URL Image Projet 2]" alt="Image Projet 2" style="width: 128px; border-radius: 8px;" />
+        <img src="https://github.com/user-attachments/assets/1783633f-4126-47a2-ac3b-99e9e54d0271" alt="Image Projet 2" style="width: 128px; border-radius: 8px;" />
       </a>
     </td>
     <!-- Projet 3 (Optionnel, tu peux en mettre plus ou moins) -->
