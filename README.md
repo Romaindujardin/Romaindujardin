@@ -12,6 +12,7 @@
   <!-- Badge Vues du Profil (populaire et facile à ajouter) -->
   <!-- Va sur https://komarev.com/ghpvc/ pour activer le compteur pour ton profil, puis utilise l'URL fournie -->
   <!-- <img src="https://komarev.com/ghpvc/?username=[Ton Username GitHub]&color=blueviolet" alt="Profile Views" /> -->
+  ![](https://komarev.com/ghpvc/?username=romaindujardin&color=green)
 
   <!-- Badge Twitter Followers (si tu as un compte Twitter pertinent) -->
   <!-- Remplace [Ton Username Twitter] par ton username Twitter -->
