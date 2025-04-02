@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Romain</h1>
 <h3 align="center">I'm an engineer student in AI</h3>
-<p align="center">⚒️ I like building some stuff that anybody want</p>
+<p align="center">⚒️ I like building some stuff that nobody wants</p>
 
 
 <p align="center" >
