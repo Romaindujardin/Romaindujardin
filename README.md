@@ -8,19 +8,6 @@
   <img src="https://img.shields.io/github/stars/romaindujardin?&style=flat" alt="Github Stars" />
   <img src="https://komarev.com/ghpvc/?username=romaindujardin&color=green" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/dujardin-romain/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
-
-  <!-- Badge PyPI Downloads (si tu as publié un package sur PyPI) -->
-  <!-- Remplace [Nom de ton package PyPI] par le nom exact de ton package -->
-  <!-- <img src="https://img.shields.io/pypi/dm/[Nom de ton package PyPI]" alt="Pypi Downloads" /> -->
-
-  <!-- Badge Discord Server (si tu as un serveur Discord public à montrer) -->
-  <!-- Remplace [ID de ton serveur Discord] par l'ID de ton serveur (il faut activer le mode développeur sur Discord pour le trouver) -->
-  <!-- <img src="https://img.shields.io/discord/[ID de ton serveur Discord]?label=Discord&logo=discord&logoColor=white&color=7289DA" alt="Discord Server" /> -->
-
-  <!-- Badge YouTube Channel Views (si tu as une chaîne YouTube) -->
-  <!-- Remplace [ID de ta chaîne YouTube] par l'ID de ta chaîne (trouvable dans l'URL de ta chaîne ou dans les paramètres avancés) -->
-  <!-- <img src="https://img.shields.io/youtube/channel/views/[ID de ta chaîne YouTube]?style=flat" alt="YouTube Channel Views" /> -->
-
 </p>
 
 <!-- Section Stats GitHub : Remplace [Ton Username GitHub] DEUX FOIS -->
@@ -32,18 +19,17 @@
 <br><br><br><br> <!-- Ajout de sauts de ligne pour mieux séparer les sections -->
 
 <!-- Section Intérêts : Adapte la liste à tes propres intérêts -->
-<p align="left">👀 Mes centres d'intérêt :
+<p align="left">👀 My centers of interest :
   <ul>
-    <li>[Intérêt 1]</li>
-    <li>[Intérêt 2]</li>
-    <li>[Intérêt 3]</li>
-    <li>[Intérêt 4]</li>
-    <!-- Ajoute ou supprime des lignes selon tes intérêts -->
+    <li>New technology, stuffs, tools ...</li>
+    <li>Financial market</li>
+    <li>AI</li>
+    <li>Sports like football</li>
   </ul>
 </p>
 
 <!-- Section Projets Mis en Avant : Adapte cette section avec TES projets -->
-<h2 align="center">🚀 Quelques projets que j'ai réalisés :</h2>
+<h2 align="center">🚀 Some projects that i did :</h2>
 <table align="center">
   <tr>
     <!-- Projet 1 -->
