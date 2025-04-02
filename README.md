@@ -12,9 +12,9 @@
 
 <!-- Section Stats GitHub : Remplace [Ton Username GitHub] DEUX FOIS -->
 <p>
-  <img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=romaindujardin&show_icons=true&locale=fr&layout=compact" alt="romaindujardin's Top Languages" />
+  <img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=romaindujardin&show_icons=true&locale=en&layout=compact" alt="romaindujardin's Top Languages" />
 </p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=romaindujardin&show_icons=true&locale=fr" alt="romaindujardin's GitHub Stats" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=romaindujardin&show_icons=true&locale=en" alt="romaindujardin's GitHub Stats" /></p>
 <!-- Note : J'ai changé locale=en à locale=fr pour avoir les titres en français -->
 <br><br><br><br> <!-- Ajout de sauts de ligne pour mieux séparer les sections -->
 
