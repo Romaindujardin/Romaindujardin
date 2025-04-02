@@ -6,21 +6,8 @@
 
 <p align="center" >
   <img src="https://img.shields.io/github/stars/romaindujardin?&style=flat" alt="Github Stars" />
-
-  <!-- === Exemples d'autres badges (choisis ceux qui te concernent) === -->
-
-  <!-- Badge Vues du Profil (populaire et facile à ajouter) -->
-  <!-- Va sur https://komarev.com/ghpvc/ pour activer le compteur pour ton profil, puis utilise l'URL fournie -->
   <img src="https://komarev.com/ghpvc/?username=romaindujardin&color=green" alt="Profile Views" />
-
-
-  <!-- Badge Twitter Followers (si tu as un compte Twitter pertinent) -->
-  <!-- Remplace [Ton Username Twitter] par ton username Twitter -->
-  <!-- <img src="https://img.shields.io/twitter/follow/[Ton Username Twitter]?style=social&logo=twitter" alt="Twitter Follow" /> -->
-
-  <!-- Badge LinkedIn (lien simple vers ton profil) -->
-  <!-- Remplace [URL de ton profil LinkedIn] par le lien direct vers ton profil -->
-  <!-- <a href="[URL de ton profil LinkedIn]"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a> -->
+  <a href="https://www.linkedin.com/in/dujardin-romain/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
 
   <!-- Badge PyPI Downloads (si tu as publié un package sur PyPI) -->
   <!-- Remplace [Nom de ton package PyPI] par le nom exact de ton package -->
