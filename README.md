@@ -3,8 +3,9 @@
 <p align="center">I like building some stuff that nobody wants</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romaindujardin&layout=donut&theme=transparent&cache_seconds=86400" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=romaindujardin&show_icons=true&theme=transparent&cache_seconds=86400" alt="GitHub Stats" />
+  <a href="https://github.com/romaindujardin?tab=followers"><img src="https://img.shields.io/github/followers/romaindujardin?style=flat&logo=github&color=blue" alt="GitHub Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=romaindujardin&color=green&style=flat" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/dujardin-romain/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
 </p>
 
 
