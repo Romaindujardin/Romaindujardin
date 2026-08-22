@@ -7,10 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=romaindujardin&show_icons=true&theme=transparent&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaindujardin&layout=donut&theme=transparent&v=1" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=romaindujardin&show_icons=true&theme=transparent&v=1" alt="GitHub Stats" />
-</p>
 
 <br>
 
