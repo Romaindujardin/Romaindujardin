@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/github/stars/romaindujardin?style=flat" alt="Github Stars" />
   <img src="https://komarev.com/ghpvc/?username=romaindujardin&color=green&style=flat" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/dujardin-romain/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
+  <a href="https://www.malt.fr/profile/romaindujardin"><img src="https://img.shields.io/badge/Malt-FC575E?style=flat&logo=malt&logoColor=white" alt="Malt Profile" /></a>
 </p>
 
 
